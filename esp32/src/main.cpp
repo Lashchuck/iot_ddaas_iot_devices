@@ -7,7 +7,7 @@
 
 // Dane sieci Wi-Fi
 const char* ssid = "PLAY internet 2.4GHz_6B1D";
-const char* password = "jagodowa";
+const char* password = "password";
 
 // Adres URL serwera Spring Boot
 const char* serverUrl = "http://192.168.1.3:8080/iot/data";
